@@ -68,3 +68,7 @@ canvas { display: block; }
     padding-left: 10%;
     width: 80%;
 }
+#credit {
+    margin-top: 2em;
+    font-size: 12px;
+}
