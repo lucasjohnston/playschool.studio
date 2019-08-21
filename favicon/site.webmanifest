@@ -1,0 +1,20 @@
+{
+    "name": "umber",
+    "short_name": "umber",
+    "icons": [
+        {
+            "src": "/favicon/android-chrome-192x192.png?v=oLJLkgM9nr",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon/android-chrome-384x384.png?v=oLJLkgM9nr",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fff4ee",
+    "background_color": "#fff4ee",
+    "start_url": "umber.xyz",
+    "display": "standalone"
+}
